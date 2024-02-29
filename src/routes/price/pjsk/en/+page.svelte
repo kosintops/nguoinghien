@@ -14,8 +14,6 @@
         <header class='h2'>
             Server: <strong>English</strong>
         </header> <br>
-        <section>
-        </section>       
     </div>
 
 
@@ -30,6 +28,7 @@
             <button class="btn variant-soft-success text-xl" on:click={() => {a='items'}}>Vật Phẩm</button>
             <button class="btn variant-soft-secondary text-xl" on:click={() => {a='costume'}}>Costume</button>
             <button class="btn variant-soft-primary text-xl" on:click={() => {a='support'}}>Gói hỗ trợ</button>
+            <button class="btn variant-soft-success text-xl" on:click={() => {a='event'}}>Golden Charm</button>
         </header>
         <section class="p-2 text-xl mt-2">
             {#if a == "nothing"}
@@ -53,6 +52,8 @@
                 5/3 có slot standard - 229.000 <strong>(đã có người đặt)</strong> <br>
                 18/3 có slot deluxe - 679.000 <br>
                 </span>
+            {:else if a == "event"}
+                Golden Charm
                 <span>
                     <img src="/img/prices/prsk/en/23 - 179.000.PNG" class="m-auto left-0 right-0" alt="">
                     179.000₫

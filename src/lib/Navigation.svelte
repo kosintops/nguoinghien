@@ -6,7 +6,7 @@
     <ul>
         <a href="/"><li class="p-3">Trang chủ</li></a>
         <a href="/about"><li class="p-3">About</li></a>
-        <a href="/rules"><li class="p-3">Rules</li></a>
+        <a href="/guide"><li class="p-3">Guide</li></a>
         <li class="p-3">
         <TreeView class="text-left">
         <TreeViewItem>

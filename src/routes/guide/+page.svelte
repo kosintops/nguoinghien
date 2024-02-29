@@ -5,7 +5,7 @@
 	<div class="card bg-yellow m-auto left-0 right-0 w-full xl:w-1/2">
 		<header class="p-3 text-center">
 			<strong class="text-center">
-                <h1 class="h1">Rules</h1>
+                <h1 class="h1">Guide</h1>
 			</strong>
 		</header>
 		<section class="bg-light-yellow text-left justify-center">

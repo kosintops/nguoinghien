@@ -12,24 +12,7 @@
 			<p class="text-2xl">
 			1️⃣ Đọc kĩ <a href="/price" class="text-secondary-700">bảng giá</a>, quyết định nạp thì ib cho Chanh liền nha 😉. <br>
 			2️⃣ Đợi Chanh xác nhận và nhờ cậu chuyển tiền nạp + công qua tài khoản dưới đây cho Chanh nha. <br>
-			<button on:click={() => {toggleBank = !toggleBank}} class="btn variant-outline-secondary">Nhấp để xem TKNH</button> <br>
-			{#if toggleBank}
-			<div class="card mt-2 mb-2 p-2 bg-yellow">
-			🌈 <strong>Vietcombank</strong>
-			1016449287
-			Hoang Thien Trang <br>
-			🌈 <strong>MBBank</strong>
-			58080402
-			Hoang Thien Trang <br>
-			🌈 <strong>Momo</strong>
-			0978549194
-			Hoang Thien Trang <br>
-			🌈 <strong>Card</strong>
-			Giá card sẽ nhỉnh hơn nhiều nên các cậu hãy suy nghĩ kĩ nha, <br> giá card có thể sẽ update theo ngày. <br>  
-			🌈 Bồ nào muốn chuyển khoản ở Circle K qua momo của Chanh thì có gì ib trước cho Chanh 1 ngày để Chanh gửi QR Code nha. <br>❗️ <strong>Hãy chụp lại bill đã chuyển khoản để Chanh confirm nha.</strong> <br>
-
-			</div>
-			{/if}
+			<a class="btn variant-outline-primary" href="/bank">Nhấp để xem TKNH</a> <br>
 			3️⃣ Sau khi Chanh nhận được tiền thì nhờ cậu gửi <strong>ID game</strong> + <strong>pass</strong> + <strong>tên ingame</strong> để Chanh đăng nhập vào để nạp cho bồ nha. <br>
 			4️⃣ Cậu ngồi đợi Chanh đưa lại <strong>ID game</strong> + <strong>pass</strong> để đón niềm zui về nhe ٩( ๑╹ ꇴ╹)۶. <br>
 			5️⃣ Cậu vào game <strong>check lại</strong> dùm Chanh là có vào được không thì ib cho Chanh để Chanh yên tâm tí nha, không vào được thì nhắn để Chanh giải quyết chung nựa :((. <br>

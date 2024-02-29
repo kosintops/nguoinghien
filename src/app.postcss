@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind variants;
+
+@font-face {
+	/* Reference name */
+	font-family: 'Linotte';
+	/* For multiple files use commas, ex: url(), url(), ... */
+	src: url('/fonts/Linotte Regular.ttf'), url('/fonts/Linotte Bold.ttf'),
+		url('/fonts/Linotte Light.ttf');
+}
+
+.invert-rounded {
+	--mask: radial-gradient(40px at 40px 40px, #0000 98%, #000) -40px -40px;
+	-webkit-mask: var(--mask);
+	mask: var(--mask);
+}
+
+.bg-yellow {
+	background-color: #fcf6a7;
+}
+
+.bg-light-yellow {
+	background-color: #fcf9c7;
+}

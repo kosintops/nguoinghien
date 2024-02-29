@@ -6,7 +6,7 @@
 			</strong>
 		</header>
 		<section class="bg-light-yellow text-center justify-center">
-			<img src="/img/image1.jpg" alt="About" class="m-auto left-0 right-0 xl:w-3/5">
+			<img src="/img/image.PNG" alt="About" class="m-auto left-0 right-0 xl:w-3/5">
 			<div class="p-4 text-3xl">
                 <p class="text-xl">
                     Gửi cậu lời chào tốt lành và một ngày thật vui vẻ nhó ♆(⃔*`꒳´ *)⃕↝ . <br> 

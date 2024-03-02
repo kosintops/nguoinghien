@@ -27,16 +27,9 @@
 	<title>Tiệm nạp hộ "Người Nghiện"</title>
 </svelte:head>
 <AppShell slotSidebarRight="bg-light-yellow rounded hidden fixed right-0 xl:block w-0 xl:w-56 text-right m-2 drop-shadow-md">
-    <div class="text-black text-right xl:hidden w-full" >
-		<strong class="text-2xl float-left m-2">Tiệm nạp hộ "NGƯỜI NGHIỆN"</strong>
-        <button class="xl:hidden btn btn-sm" on:click={drawerOpen}>
-            <span>
-                <svg viewBox="0 0 100 80" class="fill-token w-9 h-9">
-                    <rect width="100" height="20" />
-                    <rect y="30" width="100" height="20" />
-                    <rect y="60" width="100" height="20" />
-                </svg>
-            </span>
+    <div class="bg-gradient-to-br from-black/0 to-black/0 text-transparent box-decoration-clone translate-x-8 -translate-y-2 text-right xl:hidden w-full xl:fixed" >
+        <button class="xl:hidden btn" on:click={drawerOpen}>
+			<img src="/img/logo.png" width="400" alt="">
         </button>
     </div>
 

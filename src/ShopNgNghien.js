@@ -6,8 +6,8 @@ export const ShopNgNghien = {
 		// =~= Theme Properties =~=
 		'--theme-font-family-base': `Linotte`,
 		'--theme-font-family-heading': `Linotte`,
-		'--theme-font-color-base': '0 0 0',
-		'--theme-font-color-dark': '255 255 255',
+		'--theme-font-color-base': '255 255 255',
+		'--theme-font-color-dark': '0 0 0',
 		'--theme-rounded-base': '9999px',
 		'--theme-rounded-container': '8px',
 		'--theme-border-base': '1px',

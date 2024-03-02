@@ -17,13 +17,13 @@
 			</p>
 			[Update lúc: {date.toLocaleString()}]
 			<div class="xl:flex text-center m-2 justify-center">
-				<a href="/price/pjsk" class="btn text-xl variant-soft-primary ml-1">🎵 PJSK</a>
-				<a href="/price/d4dj" class="btn text-xl variant-soft-primary ml-1">🎵 D4DJ (Japanese)</a>
-				<a href="/price/mahoyaku" class="btn text-xl variant-soft-primary ml-1">💜 Mahoyaku</a>
+				<a href="/price/pjsk" class="btn text-xl variant-soft-primary text-white ml-1">🎵 PJSK</a>
+				<a href="/price/d4dj" class="btn text-xl variant-soft-primary text-white ml-1">🎵 D4DJ (Japanese)</a>
+				<a href="/price/mahoyaku" class="btn text-xl variant-soft-primary text-white ml-1">💜 Mahoyaku</a>
 			</div>
 		</section>
 		<footer class="p-2">
-			<p class="text-primary-800/90">Cảm ơn mọi người đã tin tưởng và lựa chọn tiệm "Người Nghiện" ạ 😭!</p> <br>
+			<p>Cảm ơn mọi người đã tin tưởng và lựa chọn tiệm "Người Nghiện" ạ 😭!</p> <br>
 			<span class="text-xl xl:text-2xl">Made by <a class="text-secondary-600" href="https://jinpots.top">JinPots</a></span>
 		</footer>
 	</div>

@@ -1,4 +1,4 @@
-<main class="justify-center items-center text-center p-2">
+<main class="justify-center text-primary-900 items-center text-center p-2">
     <div class="card w-full xl:w-1/2 m-auto left-0 right-0 mt-3 rounded-2xl p-2 drop-shadow-lg">
         <header class='h2'>
             Mahoyaku

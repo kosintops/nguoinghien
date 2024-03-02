@@ -10,7 +10,7 @@
 
         <ServerNavigation/>
 
-    <div class="card card-hover w-full xl:w-1/2 m-auto left-0 right-0 mb-3 rounded-2xl p-2 drop-shadow-lg">
+    <div class="card card-hover text-primary-900 w-full xl:w-1/2 m-auto left-0 right-0 mb-3 rounded-2xl p-2 drop-shadow-lg">
         <header class='h2'>
             Server: <strong>Japan</strong>
         </header> <br>
@@ -25,7 +25,7 @@
 </main>
 
 <main class="justify-center text-center items-center flex mt-2">
-    <div class="card xl:max-w-[700px] m-auto left-0 right-0 mb-3 rounded-2xl p-2 drop-shadow-lg">
+    <div class="card xl:max-w-[700px] m-auto text-primary-900 left-0 right-0 mb-3 rounded-2xl p-2 drop-shadow-lg">
         <header>
             <button class="btn variant-soft-secondary text-xl" on:click={() => {a='crystal'}}>Crystal</button>
             <button class="btn variant-soft-success text-xl" on:click={() => {a='items'}}>Vật Phẩm</button>

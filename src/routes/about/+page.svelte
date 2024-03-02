@@ -1,4 +1,4 @@
-<main class="p-2 justify-center text-center items-center flex h-screen">
+<main class="p-2 xl:justify-center xl:text-center xl:items-center xl:flex xl:h-screen">
 	<div class="card bg-yellow w-full xl:w-1/2">
 		<header class="p-3 text-center">
 			<strong class="text-center">
@@ -18,7 +18,7 @@
 			</div>
 		</section>
 		<footer class="p-2">
-			<p class="text-primary-800/90">Cảm ơn mọi người đã tin tưởng và lựa chọn tiệm "Người Nghiện" ạ 😭!</p> <br>
+			<p class="">Cảm ơn mọi người đã tin tưởng và lựa chọn tiệm "Người Nghiện" ạ 😭!</p> <br>
 			<span class="text-xl xl:text-2xl">Made by <a class="text-secondary-600" href="https://jinpots.top">JinPots</a></span>
 		</footer>
 	</div>
